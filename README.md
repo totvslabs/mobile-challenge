@@ -2,7 +2,8 @@
 Our React-native coding challenge is an app to create a simple product catalog. Where a user can login using his google account, see a list of existing products, add a new product taking a picture using the camera of her phone, edit a product and remove it.
 
 ```
-Important: Please make sure you use ReactNative and Redux. Check your solution into github with a readme.md file detailing instructions on how to get the app up and running..
+Important: Please make sure you use ReactNative and Redux. 
+Check your solution into github with a readme.md file detailing instructions on how to get the app up and running..
 ```
 
 # Main Features of the app
