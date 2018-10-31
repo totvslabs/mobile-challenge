@@ -34,3 +34,12 @@ From the list of products, users should be able to select a product they wish to
 In order to help you with the coding challenge we are providing a design mockup for you here:
 https://invis.io/6FOV7LXGY2B
 
+
+# Evaluation Criteria
+
+* Understanding of core Javascript concepts
+* Understanding of ReactNative and Redux frameworks
+* Code and component reuse/extensibility
+* Code design
+* Ability to write clear documentation
+
