@@ -30,11 +30,6 @@ From the list of products, users should be able to delete an existing product.
 
 From the list of products, users should be able to select a product they wish to edit. In the edit screen the user should be able to modify all the attributes.
 
-# Design
-In order to help you with the coding challenge we are providing a design mockup for you here:
-https://invis.io/6FOV7LXGY2B
-
-
 # Evaluation Criteria
 
 * Understanding of core Javascript concepts
@@ -43,3 +38,7 @@ https://invis.io/6FOV7LXGY2B
 * Code design
 * Ability to write clear documentation
 
+
+# Design
+In order to help you with the coding challenge we are providing a design mockup for you here:
+https://invis.io/6FOV7LXGY2B
