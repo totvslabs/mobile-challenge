@@ -1,5 +1,5 @@
 # TOTVS Labs Coding Challenge - Mobile
-Our React-native coding challenge is an app to create a simple product catalog. Where a user can login using his google account, see a list of existing products, add a new product taking a picture using the camera of her phone, edit a product and remove it.
+Our React-native coding challenge is an app to create a simple product catalog. Where a user can login using *their* google account, see a list of existing products, add a new product *by* taking a picture using the camera *on their* phone, edit a product and remove it.
 
 ```
 Important: Please make sure you use ReactNative and Redux. 
@@ -15,7 +15,7 @@ Users should be able to login/signup using their Google account.
 Users should be able to create a new product by informing:
 - Name
 - Description
-- Picture (here the user should be able to use her phone's camera for a new picture or an existing picture on her phone)
+- Picture (here the user should be able to use their phone's camera for a new picture or use an existing picture on their phone)
 
 ### 2) Product List
 
@@ -27,9 +27,9 @@ From the list of products, users should be able to delete an existing product.
 
 ### 4) Edit a Product
 
-From the list of products, users should be able to select a product she wishes to edit. In the edit scree the user should be able to modify all the attributes.
+From the list of products, users should be able to select a product they wish to edit. In the edit screen the user should be able to modify all the attributes.
 
 # Design
 In order to help you with the coding challenge we are providing a design mockup for you here:
-URL
+https://invis.io/6FOV7LXGY2B
 
