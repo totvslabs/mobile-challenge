@@ -1,5 +1,5 @@
 # TOTVS Labs Coding Challenge - Mobile
-Our React-native coding challenge is an app to create a simple product catalog. Where a user can login using *their* google account, see a list of existing products, add a new product *by* taking a picture using the camera *on their* phone, edit a product and remove it.
+Our React-native coding challenge is a simple "Crypto Tracker". Users should be able to add a new cryptocurrency, visualize the current price and the change in price in the last 24 hours for the cryptocurrencies they have added, they should also be able to remove a cryptocurrency from the "Crypto Tracker". 
 
 ```
 Important: Please make sure you use ReactNative and Redux. 
@@ -7,29 +7,29 @@ Check your solution into github with a readme.md file detailing instructions
 on how to get the app up and running..
 ```
 
+# Suggested design
+You can find bellow the mockup for a suggested design. Feel free to use it or create your own:
+https://www.figma.com/proto/sVfUI6ThTwAbLlhzbWj52Q/Mobile-Challenge-Nov-2019?node-id=1%3A4&scaling=scale-down
+
 # Main Features of the app
 
-### 1) Signup and Authentication
-Users should be able to login/signup using their Google account.
+### 1) List of cryptocurrencies
+Users should be able to visualize the list of cryptocurrencies they current have on the app
 
-### 2) Create a product
-Users should be able to create a new product by informing:
-- Name
-- Description
-- Picture (here the user should be able to use their phone's camera for a new picture or use an existing picture on their phone)
+### 2) Current price and percentage change in the last 24h
+Users should also be able to visualize: 
+Current price for the cryptocurrencies added
+Change in percentage in USD in the last 24h
 
-### 2) Product List
+### 3) API to get pricing and percentage change
+Feel free to use the pricing and percentage change provider of your preference. One of the simplest ones that doesn't require registration is Messari. You can find a sample bellow:
+https://data.messari.io/api/v1/assets/btc/metrics
 
-Users should be able to see a list of all existing products in the catalog. The list should present the name and picture of the product.
+### 4) Remove a cryptocurrency
+From the list, users should be able to remove a cryptocurrency from the "Crypto Tracker".
 
-### 3) Delete a Product
-
-From the list of products, users should be able to delete an existing product.
-
-### 4) Edit a Product
-
-From the list of products, users should be able to select a product they wish to edit. In the edit screen the user should be able to modify all the attributes.
-
+### 5) Pricing and percentage change update
+The Crypto Tracker should update the current price and percentage change in USD to the user. Chose your preferred way to update the data.
 
 # Evaluation Criteria
 
@@ -37,11 +37,6 @@ From the list of products, users should be able to select a product they wish to
 * Understanding of ReactNative and Redux frameworks
 * Code and component reuse/extensibility
 * Code design
+* Strategy to refresh data
 * Ability to write clear documentation
 
-
-
-# Design
-
-In order to help you with the coding challenge we are providing the design on invision for you as a guide:
-https://invis.io/6FOV7LXGY2B
