@@ -13,6 +13,7 @@ You can find bellow a design mockup for the challenge. Feel free to use it or cr
 https://www.figma.com/proto/sVfUI6ThTwAbLlhzbWj52Q/Mobile-Challenge-Nov-2019?node-id=1%3A4&scaling=scale-down
 
 For the assets we recommend the material icons:
+
 https://material.io/resources/icons/?style=baseline
 
 # Main Features of the app
